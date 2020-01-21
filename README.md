@@ -1,5 +1,5 @@
 # Network_SISMO
-data and another stuff for visualising network data for SISMO database
+data and another stuff for visualising network data for [*ART GLOBAL ET PÉRIODIQUES CULTURELS*](https://agorha.inha.fr/inhaprod/ark:/54721/00171) database
 
 ## First test with the [minivan tool developed by the medialab of SciencePo](https://github.com/medialab/minivan)
 Demo > 
